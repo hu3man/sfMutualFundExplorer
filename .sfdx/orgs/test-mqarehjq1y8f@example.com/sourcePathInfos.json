@@ -1,0 +1,116 @@
+[
+    [
+        "/Users/houstonkrohman/code/MutualFundExplorer/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/houstonkrohman/code/MutualFundExplorer/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555528571798,
+            "changeTime": 1555528571798,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555528571799,
+            "changeTime": 1555528571799,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1555531556613,
+            "changeTime": 1555531556613,
+            "contentHash": "05024b18c29d62b8beaf03bddcec18e750d0fc50"
+        }
+    ],
+    [
+        "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1555528571799,
+            "changeTime": 1555528571799,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1555528571799,
+            "changeTime": 1555528571799,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/houstonkrohman/code/MutualFundExplorer",
+        {
+            "state": "n",
+            "sourcePath": "/Users/houstonkrohman/code/MutualFundExplorer",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1555528704113,
+            "changeTime": 1555528704113,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 399,
+            "modifiedTime": 1555531556615,
+            "changeTime": 1555531556615,
+            "contentHash": "744548a62fb5a06837c9eeecd973acdeb9f4b3aa"
+        }
+    ],
+    [
+        "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/houstonkrohman/code/MutualFundExplorer/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555531556615,
+            "changeTime": 1555531556615,
+            "contentHash": "60680eef6555307b3497314153664b6229838daf"
+        }
+    ]
+]
